@@ -78,7 +78,7 @@ header .sticky{
     display: none;
 }
 .home{
-    background: url('../home-bg.jpg') no-repeat;
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lateral.com.au%2FBlog%2FMay-2020%2FCovid-19-How-Much-Does-It-Cost-To-Build-An-Info-Ap&psig=AOvVaw3vnJ-xql7EUaf4uN-DTN61&ust=1621441661614000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDq24XT0_ACFQAAAAAdAAAAABAJ") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
